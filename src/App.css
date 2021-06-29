@@ -1,11 +1,13 @@
 .App {
   text-align: center;
 }
+div{font-size: 30px}
 
 .App-logo {
   height: 40vmin;
   pointer-events: none;
 }
+.Att{color:brown}
 
 @media (prefers-reduced-motion: no-preference) {
   .App-logo {
